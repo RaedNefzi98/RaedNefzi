@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/raed_nefzi98" target="blank"><img src="https://img.shields.io/twitter/follow/raed_nefzi98?logo=twitter&style=for-the-badge" alt="raed_nefzi98" /></a> </p>
 
-- 💬 Ask me about **Web development using modern frameworks**
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **raednefzi1998@gmail.com**
 
