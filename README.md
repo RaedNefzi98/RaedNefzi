@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raed Nefzi</h1>
-<h3 align="center">I am a Software engineering Student,lifelong leaner, and adventurer with a background in Web development and Network/Telecommunication systems. I enjoy development because of the satisfaction i get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/73/2b/e6/732be6adb2c114e0223c36b96dfd2ad8.gif">
+<br/>
+<div class="center">
+  
+![astronaut](https://user-images.githubusercontent.com/74836098/208131823-9f91f373-7522-49c0-990c-a7194445ed4a.gif)
+  
+</div>
+
+<h3 align="center" style="background-image: url('img_girl.jpg');">I am a Software engineering Student,lifelong leaner, and adventurer with a background in Web development and Network/Telecommunication systems. I enjoy development because of the satisfaction i get by overcoming challenges. I am motivated by the opportunity that software provides to positively impact the life of an individual, and the world as a whole.</h3>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raednefzi98&label=Profile%20views&color=0e75b6&style=flat" alt="raednefzi98" /> </p>
 
