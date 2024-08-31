@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **raednefzi1998@gmail.com**
 - 📍 You can follow me on [@Linkedin](https://www.linkedin.com/in/raednefzi98/)
-- 💻 I mainly code in Java , C and Javascript/Typescript .
+- 💻 I mainly code in Java , Python and Javascript/Typescript .
 
 
 
